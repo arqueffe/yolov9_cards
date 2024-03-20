@@ -1,0 +1,1 @@
+python yolov9/val.py --img 640 --batch 32 --conf 0.001 --iou 0.7 --device 0 --data Playing-Cards-Detection-2//data.yaml --weights runs/train/exp/weights/best.pt

@@ -1,0 +1,1 @@
+python yolov9/detect.py --img 1280 --conf 0.5 --device cpu  --weights runs/train/exp/weights/best.pt --project ./runs/detect --source Playing-Cards-Detection-2/test/images
